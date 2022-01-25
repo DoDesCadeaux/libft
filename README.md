@@ -1,2 +1,2 @@
-# lstdmap not pushed
+### ft_lstmap not pushed
 ![Screenshot](libft.png)
